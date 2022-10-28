@@ -1,0 +1,2 @@
+class BFRuntimeError(RuntimeError):
+    pass
